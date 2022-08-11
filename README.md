@@ -1,8 +1,8 @@
 I'm a Back-End Developer based in Lyon, France.
 
-:computer: Currently collaborating with [Greenweez](https://www.greenweez.com/).
+:computer: Currently collaborating with [Bedrock Streaming](https://www.bedrockstreaming.com/).
 
-:office: Previously worked with [Shippeo](https://www.shippeo.com/), [Bedrock Streaming](https://www.bedrockstreaming.com/), [Reflet Communication](https://www.refletcommunication.com/), [Inetum](https://www.inetum.com/) and [DTLM](https://www.dtlm.fr/)
+:office: Previously worked with [Greenweez](https://www.greenweez.com/), [Shippeo](https://www.shippeo.com/), [Reflet Communication](https://www.refletcommunication.com/), [Inetum](https://www.inetum.com/) and [DTLM](https://www.dtlm.fr/).
 
 :gear: Love working with: .php, .js, .yml, .xml, .json
 
