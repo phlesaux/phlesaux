@@ -13,5 +13,10 @@ I'm a Back-End Developer based in Lyon, France.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
 
+<a href="https://phlesaux.github.io/">
+    <img src="https://img.shields.io/badge/github-121D33.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github">
+</a> 
+
 ![visitor count](https://page-views.glitch.me/badge?page_id=phlesaux)
+
 
